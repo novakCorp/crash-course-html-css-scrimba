@@ -1,0 +1,27 @@
+body {
+  background: #333;
+  color: white;
+}
+
+header {
+  background: white;
+  color: #333;
+  width: 100px;
+  margin: 20px;
+  padding: 10px;
+  /*
+  border: 10px;
+  border-color: yellow;
+  border-style: solid; */
+  border: 10px lightblue solid;
+  border-top: 10px yellow solid;
+}
+
+main {
+  background: lightblue;
+  color: white;
+  width: 350px;
+  margin: 20px;
+  padding: 10px;
+  border: 12px orange solid;
+}
