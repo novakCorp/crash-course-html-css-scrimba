@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: lightblue;
+  color: white;
+  padding: 25px 0;
+}
+
+h1 {
+  font-size: 40px;
+}
